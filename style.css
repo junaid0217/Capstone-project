@@ -1,0 +1,131 @@
+.first {
+    background-color: #e4f9f5;
+    text-align: center;
+}
+.first img {
+    background-color: #e4f9f5;
+}
+h1 {
+    font-family:"Sacramento", cursive;
+    color: #66bfbf;
+    font-size: 60px;
+    
+}
+.first p {
+    color: #66bfbf;
+    font-size: 40px;
+    font-family: "Montserrat", sans-serif;
+}
+#one {
+    padding-left: 450px;
+    margin-top: 30px;
+}
+.two {
+    padding-right: 450px;
+}
+img {
+    background-color: #e4f9f5;  
+}
+.second {
+    text-align: center;  
+}
+.second img{
+    padding-top: 80px;
+    background-color: white;
+}
+h4 {
+    font-size: 50px;
+    color: #66bfbf;
+    font-family: "Montserrat", sans-serif;
+}
+.second p{
+    font-size: 20px;
+}
+li {
+    list-style: none;
+    font-size: 40px;
+    color: #e4f9f5;
+    padding-top: 40px;
+}
+.third {
+    text-align: center;
+    color: #66bfbf;
+    font-size: 30px;
+    font-family: "Montserrat", sans-serif;
+    padding-top: 60px;
+}
+.cat {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    line-height: 35px;
+    font-family: "Montserrat", sans-serif;
+}
+span {
+    color: #66bfbf;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.chilli {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    line-height: 35px;
+    padding-top: 50px;
+    font-family: "Montserrat", sans-serif;
+}
+.chilli img{
+    height: 180px;
+    width: 180px;
+    background-color: white;
+}
+.chilli p {
+    padding-left: 30px;
+}
+.fourth {  
+    text-align: center;
+    font-family: "montserrat", sans-serif;
+}
+h3 {
+    color: #66bfbf;
+    font-size: 40px;
+    padding-top: 160px;
+}
+h6 {
+    font-size: 20px;
+    color: #208e8e;
+}
+.fourth p{
+    line-height: 40px;
+}
+button {
+    background-color: #66bfbf;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    height: 40px;
+    width: 160px;
+}
+button:hover {
+    background-color: #208e87;
+}
+.last {
+    padding-top: 50px;
+    background-color: #66bfbf;
+    height: 150px;
+    text-align: center;
+    margin-top: 20px;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: #208e8e;
+}
+a:hover{
+    color: white;
+}
+.last p{
+    color: white;
+    padding-top: 30px;
+}
